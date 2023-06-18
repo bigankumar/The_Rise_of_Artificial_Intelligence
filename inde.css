@@ -1,0 +1,46 @@
+body {
+    background-color: black;
+}
+
+.a{
+    color: white;
+    padding: 25%;
+    text-align: center;
+}
+.b {
+    color: white;
+    padding: 25%;
+}
+.c {
+    padding: 25%;
+    color:white;
+}
+.d {
+    padding: 25%;
+    color:white;
+}
+.e {
+    padding: 25%;
+    color:white;
+}
+.f {
+    padding: 25%;
+    color:white;
+}
+.g {
+    padding: 25%;
+    color:white;
+}
+.h {
+    padding: 25%;
+    color:white;
+}
+
+
+
+.c_4 {
+    margin-left: 60%;
+    margin-bottom: 60px;
+    height: 300px;
+    width: 300px;
+}
